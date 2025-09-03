@@ -58,7 +58,7 @@
 
 ## 📚 Featured Projects
 - [pintrest app](https://github.com/xoxo-Divyansh/pinterest-web-app) 
-- [mood-based music app](https://github.com/Mood-Based-Music-Player) - brief description.
+- [mood-based music app](https://github.com/xoxo-Divyansh/Mood-Based-Music-Player)
 
 ---
 
