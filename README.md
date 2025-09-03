@@ -57,8 +57,8 @@
 ---
 
 ## 📚 Featured Projects
-- [backend-learning](https://github.com/xoxo-Divyansh/backend-learning) - JavaScript/Node.js/Express.js backend learning journey.
-- [Another Project](https://github.com/...) - Brief description.
+- [pintrest app](https://github.com/xoxo-Divyansh/pintrest-web-app) - JavaScript/Node.js/Express.js backend learning journey.
+- [mood-based music app](https://github.com/Mood-Based-Music-Player) - brief description.
 
 ---
 
