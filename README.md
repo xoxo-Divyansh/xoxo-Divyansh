@@ -21,7 +21,7 @@
 
 ## 🧑‍💻 About Me
 - 🔭 Currently working on: **Backend Learning (JavaScript/Node.js/Express.js)**
-- 🌱 Learning: **TypeScript, Docker**
+- 🌱 Learning: **javaScript, Docker**
 - 🚀 Turning ideas into reality through clean code and creative problem-solving.
 - 💬 Ask me about: JavaScript, MERN Stack, APIs
 
