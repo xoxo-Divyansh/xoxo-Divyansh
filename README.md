@@ -12,7 +12,7 @@
 ---
 
 ## 🧑‍💻 About Me
-- 🔭 Currently working on: **Backend Learning (Node.js / Express.js)**
+- 🔭 Currently working on: **Full-stack web development using the MERN stack (MongoDB, Express.js, React, Node.js)**
 - 🌱 Learning: **JavaScript, Docker**
 - 💡 I believe in *turning thoughts into things* through code.
 - 💬 Ask me about: **JavaScript, MERN Stack, APIs**
