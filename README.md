@@ -1,8 +1,3 @@
-<!-- Banner (optional, replace the link with your own image if you like) -->
-<p align="center">
-  <img width="80" height="80" alt="Banner" width="100%" src="https://github.com/user-attachments/assets/2d34524e-fc60-42ba-9421-ccdf775f5aec" />
-</p>
-
 <h1 align="center">Hi, I'm Divyansh Raj Tripathi 👋</h1>
 <p align="center">
   <img src="https://avatars.githubusercontent.com/xoxo-Divyansh" alt="Divyansh's GitHub Avatar" width="120" style="border-radius:50%;" />
