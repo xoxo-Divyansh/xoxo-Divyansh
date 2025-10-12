@@ -1,6 +1,6 @@
 <!-- Banner (optional, replace the link with your own image if you like) -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/1038532223/banner.png" alt="Banner" width="100%" />
+  <img width="80" height="80" alt="Banner" width="100%" src="https://github.com/user-attachments/assets/2d34524e-fc60-42ba-9421-ccdf775f5aec" />
 </p>
 
 <h1 align="center">Hi, I'm Divyansh Raj Tripathi 👋</h1>
@@ -57,8 +57,9 @@
 ---
 
 ## 📚 Featured Projects
-- [pintrest app](https://github.com/xoxo-Divyansh/pinterest-web-app) 
+- [Reels-Food-app](https://github.com/xoxo-Divyansh/Reels-Foods-app) 
 - [mood-based music app](https://github.com/xoxo-Divyansh/Mood-Based-Music-Player)
+- [pintrest app](https://github.com/xoxo-Divyansh/pinterest-web-app) 
 
 ---
 
@@ -67,7 +68,8 @@
 |------|----------------------------|
 | 2023 | Started Backend Learning   |
 | 2024 | Built Full MERN Project    |
-| ...  | ...                        |
+| 2025 | Mastering Project building-|
+| .... | Abilities.                 |
 
 ---
 
