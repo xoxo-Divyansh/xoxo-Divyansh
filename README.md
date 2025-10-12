@@ -1,70 +1,72 @@
 <h1 align="center">Hi, I'm Divyansh Raj Tripathi 👋</h1>
+
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/xoxo-Divyansh" alt="Divyansh's GitHub Avatar" width="120" style="border-radius:50%;" />
-  <br>
-  <b>Full-Stack Developer | MERN Enthusiast | Problem Solver 🚀</b>
+  <img src="https://avatars.githubusercontent.com/xoxo-Divyansh" width="120" style="border-radius:50%;" />
+</p>
+
+<p align="center">
+  <b>Full-Stack Developer | MERN Enthusiast | Problem Solver 🚀</b><br>
+  <i>Transforming ideas into reality through code and creativity.</i>
 </p>
 
 ---
 
-## 🌐 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/divyansh-raj-tripathi-3211b8266?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[![Portfolio](https://img.shields.io/badge/Portfolio-website-green)](https://your-portfolio.com)
+## 🧑‍💻 About Me
+- 🔭 Currently working on: **Backend Learning (Node.js / Express.js)**
+- 🌱 Learning: **JavaScript, Docker**
+- 💡 I believe in *turning thoughts into things* through code.
+- 💬 Ask me about: **JavaScript, MERN Stack, APIs**
+
+---
+
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyansh-raj-tripathi-3211b8266)
+[![Portfolio](https://img.shields.io/badge/Portfolio-🟣_Echoes_of_xoxo-green)](https://your-portfolio.com)
 [![Email](https://img.shields.io/badge/Email-contact-yellow)](mailto:drt.vip777@gmail.com)
 
 ---
 
-## 🧑‍💻 About Me
-- 🔭 Currently working on: **Backend Learning (JavaScript/Node.js/Express.js)**
-- 🌱 Learning: **javaScript, Docker**
-- 🚀 Turning ideas into reality through clean code and creative problem-solving.
-- 💬 Ask me about: JavaScript, MERN Stack, APIs
+## 📚 Featured Projects
+- 🎥 [Reels-Food-App](https://github.com/xoxo-Divyansh/Reels-Foods-app)
+- 🎵 [Mood-Based Music App](https://github.com/xoxo-Divyansh/Mood-Based-Music-Player)
+- 📌 [Pinterest Web App](https://github.com/xoxo-Divyansh/pinterest-web-app)
 
 ---
 
 ## 🚀 Tech Stack
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="TailwindCSS" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="Postman" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
-</div>
+### 🖥️ Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,html,css" height="40" />
+</p>
+
+### ⚙️ Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" height="40" />
+</p>
+
+### 🧰 Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" height="40" />
+</p>
 
 ---
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xoxo-Divyansh&show_icons=true&theme=radical" alt="Divyansh's GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xoxo-Divyansh&theme=radical" alt="Divyansh's GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=xoxo-Divyansh&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xoxo-Divyansh&theme=radical" height="150" />
 </p>
 
 ---
 
-## 📚 Featured Projects
-- [Reels-Food-app](https://github.com/xoxo-Divyansh/Reels-Foods-app) 
-- [mood-based music app](https://github.com/xoxo-Divyansh/Mood-Based-Music-Player)
-- [pintrest app](https://github.com/xoxo-Divyansh/pinterest-web-app) 
-
----
-
 ## 🗓️ My Journey
-| Year | Milestone                  |
-|------|----------------------------|
-| 2023 | Started Backend Learning   |
-| 2024 | Built Full MERN Project    |
-| 2025 | Mastering Project building-|
-| .... | Abilities.                 |
+| Year | Milestone |
+|------|------------|
+| 2023 | Started Backend Learning |
+| 2024 | Built Full MERN Projects |
+| 2025 | Mastering Project Building Abilities |
+| ...  | Expanding Creative Horizons |
 
 ---
 
