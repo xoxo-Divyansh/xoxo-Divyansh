@@ -39,10 +39,12 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,html,css" height="40" />
 </p>
+
 ### ⚙️ Backend
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" height="40" />
 </p>
+
 ### 🧰 Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" height="40" />
