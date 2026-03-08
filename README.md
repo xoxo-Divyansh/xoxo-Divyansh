@@ -6,12 +6,12 @@
 
 <p align="center">
   <i style="color:#8a2be2">Full-Stack Developer | Creative Coder | Production-Ready MERN Wizard</i><br>
-  <b style="color:#ff69b4">Turning ideas into interactive, neon-lit experiences 🚀</b>
+  <b style="color:#ff69b4">Turning ideas into interactive experiences 🚀</b>
 </p>
 
 ---
 
-## 🔮 Who I Am Now
+## 🪄 Casting Code Spells
 <p align="center">
   <span style="background: linear-gradient(90deg, #8a2be2, #ff69b4); -webkit-background-clip: text; color: transparent; font-weight:bold;">
     MERN Stack Expert • Creative Frontend Wizard • Backend Architect
@@ -25,7 +25,7 @@
 
 ---
 
-## 💫 Featured Projects — Interactive Neon Showcase
+## 💫 Featured Projects — Interactive Showcase
 <p align="center">
   <a href="https://github.com/xoxo-Divyansh/Reels-Foods-app" title="Reels-Food-App">
     <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" height="130" style="border-radius:12px; box-shadow:0 0 20px #ff69b4;" />
@@ -41,11 +41,11 @@
   </a>
 </p>
 
-> 💡 Click a GIF to explore live demos & source code — interactive previews in neon style.
+> 💡 Click a GIF to explore live demos & source code — interactive previews.
 
 ---
 
-## ⚡ Tech Stack — Neon Glow
+## ⚡ Tech Stack — 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap,html,css,js,nodejs,express,mongodb,vercel,docker" height="50" style="margin:5px; filter: drop-shadow(0 0 8px #ff69b4);" />
 </p>
