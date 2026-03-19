@@ -52,7 +52,8 @@ A clone project with focus on UI/UX, layouts, and responsiveness.
 
 ### 🔹 OneTool (Flagship Project 🚀)  
 An all-in-one utility platform with multiple tools like PDF handling, generators, and more.  
-🔗 https://github.com/xoxo-Divyansh/OneTool  
+live demo: https://one-tool-xoxo.vercel.app
+Github repo: 🔗 https://github.com/xoxo-Divyansh/OneTool  
 
 ---
 
