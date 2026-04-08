@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/xoxo-hero.svg" alt="xoxo cinematic hero" width="100%" />
+  <img src="./xoxo-hero.svg" alt="xoxo cinematic hero" width="100%" />
 </p>
 
 <p align="center">
