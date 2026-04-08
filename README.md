@@ -49,48 +49,29 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🚀 OneTool</h3>
-      <p>
-        An all-in-one utility platform with multiple tools like PDF workflows, generators, converters, and productivity utilities.
-      </p>
-      <p>
-        <a href="https://one-tool-xoxo.vercel.app">🔗 Live Demo</a><br>
-        <a href="https://github.com/xoxo-Divyansh/OneTool">📦 GitHub Repo</a>
-      </p>
+      <h3>OneTool</h3>
+      <p>Modular multi-utility web platform focused on practical tools, clean UX, and scalable product structure.</p>
+      <p><a href="https://one-tool-xoxo.vercel.app">Live</a> · <a href="https://github.com/xoxo-Divyansh/OneTool">Repository</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🍔 Reels Food App</h3>
-      <p>
-        A full-stack MERN food ordering platform with authentication, dynamic UI, and practical product flow.
-      </p>
-      <p>
-        <a href="https://github.com/xoxo-Divyansh/Reels-Foods-app">📦 GitHub Repo</a>
-      </p>
+      <h3>Reels Food App</h3>
+      <p>Full-stack MERN food ordering experience with authentication, dynamic interfaces, and real product flow.</p>
+      <p><a href="https://github.com/xoxo-Divyansh/Reels-Foods-app">Repository</a></p>
     </td>
   </tr>
-
   <tr>
     <td width="50%" valign="top">
-      <h3>🎵 Mood-Based Music Player</h3>
-      <p>
-        A frontend-focused interactive music app that changes the listening flow based on the user's selected mood.
-      </p>
-      <p>
-        <a href="https://github.com/xoxo-Divyansh/Mood-Based-Music-Player">📦 GitHub Repo</a>
-      </p>
+      <h3>Mood-Based Music Player</h3>
+      <p>Interactive frontend experience that adapts music flow around mood-based user selection.</p>
+      <p><a href="https://github.com/xoxo-Divyansh/Mood-Based-Music-Player">Repository</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>📌 Pinterest Web App</h3>
-      <p>
-        A UI-focused project centered on responsive layouts, visual composition, and frontend interaction patterns.
-      </p>
-      <p>
-        <a href="https://github.com/xoxo-Divyansh/pinterest-web-app">📦 GitHub Repo</a>
-      </p>
+      <h3>Pinterest Web App</h3>
+      <p>UI-focused build centered on composition, responsiveness, and visual browsing patterns.</p>
+      <p><a href="https://github.com/xoxo-Divyansh/pinterest-web-app">Repository</a></p>
     </td>
   </tr>
 </table>
-
 ---
 
 ## 📊 GitHub Stats
