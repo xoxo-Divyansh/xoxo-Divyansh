@@ -1,0 +1,179 @@
+<svg width="1280" height="420" viewBox="0 0 1280 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#050505"/>
+      <stop offset="0.55" stop-color="#0B0713"/>
+      <stop offset="1" stop-color="#140A22"/>
+    </linearGradient>
+
+    <radialGradient id="purpleGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1000 120) rotate(120) scale(380 280)">
+      <stop stop-color="#A855F7" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#A855F7" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="softGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(260 330) rotate(30) scale(420 220)">
+      <stop stop-color="#7C3AED" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#7C3AED" stop-opacity="0"/>
+    </radialGradient>
+
+    <linearGradient id="lineGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#C084FC" stop-opacity="0.85"/>
+      <stop offset="1" stop-color="#7C3AED" stop-opacity="0.05"/>
+    </linearGradient>
+
+    <filter id="blurXL" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="42"/>
+    </filter>
+
+    <filter id="blurMD" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="16"/>
+    </filter>
+
+    <filter id="shadowPurple" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="0" stdDeviation="10" flood-color="#A855F7" flood-opacity="0.35"/>
+    </filter>
+
+    <style>
+      .title {
+        font-family: Inter, Segoe UI, Arial, sans-serif;
+        font-weight: 800;
+        letter-spacing: 0.5px;
+      }
+
+      .subtitle {
+        font-family: Inter, Segoe UI, Arial, sans-serif;
+        font-weight: 500;
+        letter-spacing: 0.2px;
+      }
+
+      .mono {
+        font-family: "JetBrains Mono", Consolas, monospace;
+      }
+
+      .particle {
+        animation: float 5.2s ease-in-out infinite;
+      }
+
+      .particle.slow {
+        animation-duration: 7.4s;
+      }
+
+      .particle.fast {
+        animation-duration: 3.8s;
+      }
+
+      .scan {
+        animation: scan 7s linear infinite;
+      }
+
+      .pulse {
+        animation: pulse 3.6s ease-in-out infinite;
+      }
+
+      @keyframes float {
+        0%, 100% { transform: translateY(0px); opacity: .55; }
+        50% { transform: translateY(-10px); opacity: 1; }
+      }
+
+      @keyframes scan {
+        0% { transform: translateX(-120px); opacity: 0; }
+        15% { opacity: .8; }
+        50% { opacity: .22; }
+        100% { transform: translateX(1180px); opacity: 0; }
+      }
+
+      @keyframes pulse {
+        0%, 100% { opacity: .45; }
+        50% { opacity: .95; }
+      }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1280" height="420" rx="28" fill="url(#bg)"/>
+  <rect width="1280" height="420" rx="28" fill="url(#purpleGlow)"/>
+  <rect width="1280" height="420" rx="28" fill="url(#softGlow)"/>
+
+  <!-- Decorative grid -->
+  <g opacity="0.12">
+    <path d="M0 80H1280" stroke="#C084FC"/>
+    <path d="M0 160H1280" stroke="#C084FC"/>
+    <path d="M0 240H1280" stroke="#C084FC"/>
+    <path d="M0 320H1280" stroke="#C084FC"/>
+    <path d="M160 0V420" stroke="#C084FC"/>
+    <path d="M320 0V420" stroke="#C084FC"/>
+    <path d="M480 0V420" stroke="#C084FC"/>
+    <path d="M640 0V420" stroke="#C084FC"/>
+    <path d="M800 0V420" stroke="#C084FC"/>
+    <path d="M960 0V420" stroke="#C084FC"/>
+    <path d="M1120 0V420" stroke="#C084FC"/>
+  </g>
+
+  <!-- Left glow -->
+  <circle cx="170" cy="116" r="92" fill="#7C3AED" opacity="0.20" filter="url(#blurXL)"/>
+  <circle cx="1090" cy="90" r="110" fill="#A855F7" opacity="0.18" filter="url(#blurXL)"/>
+
+  <!-- Code panel -->
+  <g transform="translate(760 70)">
+    <rect x="0" y="0" width="420" height="250" rx="18" fill="#09090B" fill-opacity="0.72" stroke="url(#lineGrad)" stroke-opacity="0.8"/>
+    <rect x="18" y="18" width="384" height="214" rx="12" fill="#050505" fill-opacity="0.88" stroke="#A855F7" stroke-opacity="0.16"/>
+
+    <circle cx="36" cy="37" r="5" fill="#C084FC"/>
+    <circle cx="54" cy="37" r="5" fill="#9333EA"/>
+    <circle cx="72" cy="37" r="5" fill="#6D28D9"/>
+
+    <text x="34" y="78" class="mono" fill="#E9D5FF" font-size="17">const identity = {</text>
+    <text x="58" y="108" class="mono" fill="#C4B5FD" font-size="15">name: "Divyansh Raj Tripathi",</text>
+    <text x="58" y="136" class="mono" fill="#C4B5FD" font-size="15">role: "Full-Stack MERN Developer",</text>
+    <text x="58" y="164" class="mono" fill="#C4B5FD" font-size="15">vibe: "xoxo cinematic",</text>
+    <text x="58" y="192" class="mono" fill="#C4B5FD" font-size="15">status: "building scalable products"</text>
+    <text x="34" y="220" class="mono" fill="#E9D5FF" font-size="17">}</text>
+
+    <rect x="272" y="188" width="90" height="20" rx="10" fill="#A855F7" opacity="0.18"/>
+    <circle class="pulse" cx="287" cy="198" r="4" fill="#C084FC"/>
+    <text x="298" y="202" class="mono" fill="#F3E8FF" font-size="11">LIVE BUILD</text>
+  </g>
+
+  <!-- Text block -->
+  <g transform="translate(68 90)">
+    <text x="0" y="0" class="subtitle" fill="#C4B5FD" font-size="18">⚫ xoxo identity visual</text>
+    <text x="0" y="72" class="title" fill="white" font-size="52">Divyansh Raj Tripathi</text>
+    <text x="0" y="116" class="subtitle" fill="#E9D5FF" font-size="24">Full-Stack MERN Developer • Creative Engineer</text>
+    <text x="0" y="154" class="subtitle" fill="#D8B4FE" font-size="20">Building scalable web experiences with code, systems, and design.</text>
+
+    <g transform="translate(0 192)">
+      <rect width="172" height="38" rx="19" fill="#A855F7" fill-opacity="0.12" stroke="#C084FC" stroke-opacity="0.35"/>
+      <text x="18" y="24" class="subtitle" fill="#F5E9FF" font-size="16">MERN • Next.js • UI</text>
+    </g>
+
+    <g transform="translate(184 192)">
+      <rect width="190" height="38" rx="19" fill="#A855F7" fill-opacity="0.09" stroke="#C084FC" stroke-opacity="0.28"/>
+      <text x="18" y="24" class="subtitle" fill="#F5E9FF" font-size="16">Systems • APIs • Shipping</text>
+    </g>
+  </g>
+
+  <!-- Connector lines -->
+  <path d="M645 115C700 115 720 115 760 115" stroke="url(#lineGrad)" stroke-width="2" stroke-dasharray="6 8" opacity="0.7"/>
+  <path d="M640 220C700 220 720 220 760 220" stroke="url(#lineGrad)" stroke-width="2" stroke-dasharray="6 8" opacity="0.45"/>
+
+  <!-- Floating particles -->
+  <g>
+    <circle class="particle" cx="142" cy="72" r="3.2" fill="#E9D5FF"/>
+    <circle class="particle slow" cx="210" cy="52" r="2.2" fill="#A855F7"/>
+    <circle class="particle fast" cx="330" cy="82" r="2.8" fill="#C084FC"/>
+    <circle class="particle" cx="1018" cy="58" r="3.2" fill="#D8B4FE"/>
+    <circle class="particle slow" cx="1165" cy="116" r="2.6" fill="#C084FC"/>
+    <circle class="particle fast" cx="1208" cy="74" r="2.2" fill="#A855F7"/>
+    <circle class="particle" cx="1096" cy="330" r="3.4" fill="#E9D5FF"/>
+    <circle class="particle slow" cx="100" cy="338" r="2.6" fill="#C084FC"/>
+    <circle class="particle fast" cx="420" cy="332" r="2.1" fill="#A855F7"/>
+  </g>
+
+  <!-- Bottom line -->
+  <rect x="60" y="372" width="1160" height="1.5" fill="url(#lineGrad)" opacity="0.55"/>
+
+  <!-- Scanning beam -->
+  <g class="scan" opacity="0.45">
+    <rect x="0" y="0" width="140" height="420" fill="url(#softGlow)"/>
+  </g>
+</svg>
