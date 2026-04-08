@@ -1,0 +1,99 @@
+<svg width="1600" height="520" viewBox="0 0 1600 520" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="520" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F7F3EE"/>
+      <stop offset="1" stop-color="#EEE8E0"/>
+    </linearGradient>
+
+    <linearGradient id="panel" x1="1040" y1="70" x2="1450" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F4EFE8"/>
+      <stop offset="1" stop-color="#E5DDD3"/>
+    </linearGradient>
+
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#B7ADA0"/>
+      <stop offset="1" stop-color="#D7CFC5"/>
+    </linearGradient>
+
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="18" stdDeviation="28" flood-color="#B9AEA0" flood-opacity="0.18"/>
+    </filter>
+
+    <style>
+      .title {
+        font-family: Georgia, "Times New Roman", serif;
+        font-weight: 700;
+        letter-spacing: -1px;
+      }
+      .body {
+        font-family: Inter, Arial, sans-serif;
+        fill: #2B2A28;
+      }
+      .muted {
+        font-family: Inter, Arial, sans-serif;
+        fill: #6D675F;
+      }
+      .mono {
+        font-family: "JetBrains Mono", Consolas, monospace;
+        fill: #7B746B;
+      }
+    </style>
+  </defs>
+
+  <!-- background -->
+  <rect width="1600" height="520" rx="28" fill="url(#bg)"/>
+
+  <!-- subtle top label -->
+  <text x="86" y="82" class="mono" font-size="17" letter-spacing="2.2">DIVYANSH RAJ TRIPATHI / PROFILE</text>
+
+  <!-- main typography -->
+  <text x="86" y="180" class="title" font-size="74" fill="#1F1E1C">Divyansh</text>
+  <text x="86" y="258" class="title" font-size="74" fill="#1F1E1C">Raj Tripathi</text>
+
+  <line x1="88" y1="290" x2="630" y2="290" stroke="#B8AEA2" stroke-width="1.6"/>
+
+  <text x="86" y="338" class="body" font-size="26">Full-Stack MERN Developer • Creative Engineer</text>
+  <text x="86" y="382" class="muted" font-size="23">Building thoughtful digital products with clean systems,</text>
+  <text x="86" y="416" class="muted" font-size="23">practical user experience, and modern web technologies.</text>
+
+  <!-- small tags -->
+  <rect x="88" y="448" width="132" height="34" rx="17" fill="#E7DFD5"/>
+  <text x="113" y="470" class="mono" font-size="14">MERN</text>
+
+  <rect x="232" y="448" width="144" height="34" rx="17" fill="#E7DFD5"/>
+  <text x="260" y="470" class="mono" font-size="14">NEXT.JS</text>
+
+  <rect x="388" y="448" width="176" height="34" rx="17" fill="#E7DFD5"/>
+  <text x="420" y="470" class="mono" font-size="14">PRODUCT UI</text>
+
+  <!-- right editorial composition -->
+  <g filter="url(#shadow)">
+    <rect x="1018" y="76" width="430" height="332" rx="26" fill="url(#panel)" stroke="#D0C7BC"/>
+  </g>
+
+  <!-- layered cards -->
+  <rect x="954" y="128" width="246" height="160" rx="18" fill="#F8F4EE" stroke="#D9CFC4"/>
+  <rect x="1138" y="220" width="256" height="158" rx="18" fill="#ECE4DA" stroke="#D1C7BC"/>
+
+  <!-- line system -->
+  <path d="M1048 110H1420" stroke="#B9AFA4" stroke-width="1.2"/>
+  <path d="M1048 390H1420" stroke="#B9AFA4" stroke-width="1.2"/>
+  <path d="M1086 104V396" stroke="#D6CDC3" stroke-width="1"/>
+  <path d="M1206 104V396" stroke="#D6CDC3" stroke-width="1"/>
+  <path d="M1326 104V396" stroke="#D6CDC3" stroke-width="1"/>
+
+  <!-- circles / curves -->
+  <circle cx="1288" cy="186" r="78" stroke="#AFA497" stroke-width="1.4"/>
+  <circle cx="1288" cy="186" r="48" stroke="#C7BDB1" stroke-width="1.2"/>
+  <path d="M1110 322C1168 278 1236 254 1312 256C1366 257 1413 272 1456 302" stroke="#93897E" stroke-width="1.6" fill="none"/>
+  <path d="M1092 346C1160 298 1242 274 1328 276C1390 277 1448 295 1498 332" stroke="#C1B7AC" stroke-width="1.4" fill="none"/>
+
+  <!-- small xoxo mark -->
+  <text x="1242" y="446" class="mono" font-size="16" letter-spacing="3">XOXO / SYSTEMS • DESIGN • WEB</text>
+
+  <!-- corner details -->
+  <line x1="1490" y1="56" x2="1548" y2="56" stroke="#B8AEA2" stroke-width="1.5"/>
+  <line x1="1548" y1="56" x2="1548" y2="114" stroke="#B8AEA2" stroke-width="1.5"/>
+  <line x1="52" y1="466" x2="52" y2="424" stroke="#B8AEA2" stroke-width="1.5"/>
+  <line x1="52" y1="466" x2="94" y2="466" stroke="#B8AEA2" stroke-width="1.5"/>
+</svg>
