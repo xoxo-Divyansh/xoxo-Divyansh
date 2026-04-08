@@ -6,70 +6,90 @@
 </p>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/xoxo-Divyansh" width="140" style="border-radius:50%;" />
+  <img src="./assets/xoxo-hero.svg" alt="xoxo cinematic hero" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=xoxo-Divyansh&label=Profile%20Views&color=7C3AED&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/badge/Focus-Full--Stack%20Products-6D28D9?style=flat" alt="focus badge" />
+  <img src="https://img.shields.io/badge/Vibe-xoxo%20cinematic-A855F7?style=flat" alt="vibe badge" />
 </p>
 
 ---
 
 ## 💼 About Me
 
-- 🔹 2+ years of experience building **MERN stack applications**
-- 🔹 Focused on **scalable backend systems + interactive frontend UI**
-- 🔹 Strong in **API design, state management, and deployment pipelines**
-- 🔹 Currently exploring **Next.js, TypeScript, Docker & DevOps**
+- 🔹 Full-stack developer focused on **real-world MERN applications**
+- 🔹 Strong interest in **scalable backend systems, product thinking, and modern UI**
+- 🔹 I enjoy building products that feel **clean, interactive, and production-ready**
+- 🔹 Currently growing with **Next.js, TypeScript, Docker, and system design**
 
 ---
 
 ## ⚡ What I Bring
 
-- ✅ Build **end-to-end full-stack applications**
-- ✅ Write **clean, maintainable, and scalable backend code**
-- ✅ Create **modern, responsive, and engaging UI/UX**
-- ✅ Optimize performance & improve user experience
-- ✅ Deploy applications using **Vercel & modern workflows**
-
----
-
-## 🌟 Featured Projects
-
-### 🔹 Reels Food App  
-A full-stack MERN food ordering platform with authentication and dynamic UI.  
-🔗 https://github.com/xoxo-Divyansh/Reels-Foods-app  
-
----
-
-### 🔹 Mood-Based Music Player  
-Frontend-focused app that plays music based on user mood selection.  
-🔗 https://github.com/xoxo-Divyansh/Mood-Based-Music-Player  
-
----
-
-### 🔹 Pinterest Web App  
-A clone project with focus on UI/UX, layouts, and responsiveness.  
-🔗 https://github.com/xoxo-Divyansh/pinterest-web-app  
-
----
-
-### 🔹 OneTool (Flagship Project 🚀)  
-An all-in-one utility platform with multiple tools like PDF handling, generators, and more.  
-live demo: https://one-tool-xoxo.vercel.app
-Github repo: 🔗 https://github.com/xoxo-Divyansh/OneTool  
+- ✅ End-to-end full-stack product development  
+- ✅ Clean backend architecture with practical API design  
+- ✅ Responsive, modern, and engaging frontend interfaces  
+- ✅ Performance-focused development and better UX decisions  
+- ✅ Deployment-ready workflows using modern tools like Vercel and GitHub  
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Frontend**  
-React • Redux • Tailwind • Bootstrap • HTML • CSS • JavaScript  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,js,ts,tailwind,git,github,docker,vscode" />
+</p>
 
-**Backend**  
-Node.js • Express.js  
+---
 
-**Database**  
-MongoDB  
+## 🌟 Featured Projects
 
-**Deployment & Tools**  
-Vercel • Git • GitHub • Docker (learning)  
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚀 OneTool</h3>
+      <p>
+        An all-in-one utility platform with multiple tools like PDF workflows, generators, converters, and productivity utilities.
+      </p>
+      <p>
+        <a href="https://one-tool-xoxo.vercel.app">🔗 Live Demo</a><br>
+        <a href="https://github.com/xoxo-Divyansh/OneTool">📦 GitHub Repo</a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🍔 Reels Food App</h3>
+      <p>
+        A full-stack MERN food ordering platform with authentication, dynamic UI, and practical product flow.
+      </p>
+      <p>
+        <a href="https://github.com/xoxo-Divyansh/Reels-Foods-app">📦 GitHub Repo</a>
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎵 Mood-Based Music Player</h3>
+      <p>
+        A frontend-focused interactive music app that changes the listening flow based on the user's selected mood.
+      </p>
+      <p>
+        <a href="https://github.com/xoxo-Divyansh/Mood-Based-Music-Player">📦 GitHub Repo</a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📌 Pinterest Web App</h3>
+      <p>
+        A UI-focused project centered on responsive layouts, visual composition, and frontend interaction patterns.
+      </p>
+      <p>
+        <a href="https://github.com/xoxo-Divyansh/pinterest-web-app">📦 GitHub Repo</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -95,9 +115,9 @@ Vercel • Git • GitHub • Docker (learning)
 
 ## 🎯 Current Focus
 
-- 🚀 Building scalable tools & real-world applications  
-- 🎨 Improving UI/UX with creative frontend concepts  
-- ⚙️ Learning system design & DevOps fundamentals  
+- 🚀 Building scalable tools and real-world web applications  
+- 🎨 Improving UI/UX with creative frontend execution  
+- ⚙️ Learning system design, DevOps, and better product architecture  
 
 ---
 
@@ -107,11 +127,11 @@ Vercel • Git • GitHub • Docker (learning)
   <a href="https://www.linkedin.com/in/divyansh-raj-tripathi-3211b8266">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://xoxo-divyansh.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-Echoes_of_xoxo-purple" />
+  <a href="https://xoxo-divyansh.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Echoes_of_xoxo-7C3AED" />
   </a>
   <a href="mailto:drt.vip777@gmail.com">
-    <img src="https://img.shields.io/badge/Email-contact-yellow" />
+    <img src="https://img.shields.io/badge/Email-contact-F59E0B" />
   </a>
 </p>
 
@@ -119,7 +139,7 @@ Vercel • Git • GitHub • Docker (learning)
 
 ## 💬 Let’s Collaborate
 
-💡 Open to internships, freelance projects, and collaboration opportunities  
-🚀 Let’s build something impactful together  
-
----
+<p align="center">
+  💡 Open to internships, freelance projects, and meaningful collaborations <br>
+  🚀 Let’s build something impactful together
+</p>
